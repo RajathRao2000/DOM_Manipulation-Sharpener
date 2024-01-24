@@ -87,7 +87,7 @@ function handleFormSubmit(event){
 
         document.getElementById("expenceAmount").value=usrDetailsArr[0]
         document.getElementById("description").value=usrDetailsArr[1]
-        document.getElementById("category").value=usrDetailsArr[2]
+        document.getElementById("list").value=usrDetailsArr[2]
 
   }
 }
